@@ -1,7 +1,7 @@
 // next.config.js
 
 const nextConfig = {
-  // basePath: "/portfolio",
+  basePath: "/portfolio",
   output: "export", // enables static exports
   reactStrictMode: true,
 };
